@@ -22,6 +22,11 @@ There is no reason not to add encryption, real nick provisioning, etc.
 
 Go ahead and read up. Happy Coding. :)
 
+Usage
+======
+
+Unpack into a localhost directroy and run index2.php. Note one could change the both index' to .html file type I just used them that way for testing.
+
 Changelog
 ==========
 v0.01
