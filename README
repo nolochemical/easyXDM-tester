@@ -1,0 +1,28 @@
+*LICENSE*
+
+Copyright (c) 2011 Victor Phelemba
+
+easyXDM-tester is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+easyXDM-tester is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with easyXDM-tester.  If not, see <http://www.gnu.org/licenses/>.
+
+*easyXDM-tester*
+
+This is a simple text chat demo snippet Im hoping you'll find useful. Keep in mind the hackers over at easyxdm.net have quite a few more elaborate demos to punch around. 
+
+There is no reason not to add encryption, real nick provisioning, etc.
+
+Go ahead and read up. Happy Coding. :)
+
+Changelog
+==========
+v0.01
+- simple text chat application with easyXDM (working)
