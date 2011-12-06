@@ -16,7 +16,8 @@ along with easyXDM-tester.  If not, see <http://www.gnu.org/licenses/>.
 
 *easyXDM-tester*
 
-This is a simple text chat demo snippet Im hoping you'll find useful. Keep in mind the hackers over at easyxdm.net have quite a few more elaborate demos to punch around. 
+This is a simple text chat demo snippet Im hoping you'll find useful. Keep in mind the 
+hackers over at easyxdm.net have quite a few more elaborate demos to punch around. 
 
 There is no reason not to add encryption, real nick provisioning, etc.
 
@@ -25,7 +26,11 @@ Go ahead and read up. Happy Coding. :)
 Usage
 ======
 
-Unpack into a localhost directroy and run index2.php. Note one could change the both index' to .html file type I just used them that way for testing.
+Unpack into a localhost directroy and run index2.php. Note one could change the both 
+index' to .html file type I just used them that way for testing.
+
+Clients will *not see another clients messages, this is just a message pass through. 
+Take a look at the code in index.php and connect it to a central storage.
 
 Changelog
 ==========
